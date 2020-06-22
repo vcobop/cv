@@ -1,6 +1,9 @@
 ---
-title: Page not found
+title: More
 layout: home
 ---
 
-# About me
+# Board strategy games
+## Chess
+## Xianqui
+## Shogi
