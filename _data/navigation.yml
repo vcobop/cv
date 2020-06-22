@@ -3,14 +3,14 @@ main:
    #- title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: julitrii.github.io/CV/About
+     url: About
    - title: "Interests"
-     url: julitrii.github.io/CV/Interests
+     url: Interests
    - title: "Reasearch Products"
-     url: julitrii.github.io/CV/Reasearch_Products
+     url: Reasearch_Products
    - title: "Experience"
-     url: julitrii.github.io/CV/Experience
+     url: Experience
    - title: "Skills"
-     url: julitrii.github.io/CV/Skills
+     url: Skills
    - title: "More"
-     url: julitrii.github.io/CV/More
+     url: More
