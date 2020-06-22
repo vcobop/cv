@@ -3,6 +3,6 @@ title: Skills
 layout: home
 ---
 
-#Lenguages
+# Lenguages
 
-##Portugues
+## Portugues
