@@ -117,10 +117,10 @@ author:
        url: "https://github.com/julitrii"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: <www.linkedin.com/in/julitrii>  
+       url: "www.linkedin.com/in/julitrii"  
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: <https://www.instagram.com/julitrii/>
+       url: "https://www.instagram.com/julitrii/"
 
 # Site Footer
 footer:
@@ -133,7 +133,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: <https://github.com/julitrii>
+       url: "https://github.com/julitrii"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -142,10 +142,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: https://www.instagram.com/julitrii/
+       url: "https://www.instagram.com/julitrii/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: <www.linkedin.com/in/julitrii>     
+       url: "www.linkedin.com/in/julitrii"     
 
 
 # Reading Files
