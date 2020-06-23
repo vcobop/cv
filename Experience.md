@@ -5,7 +5,7 @@ layout: single
 
 ><h1>Teacher Experience</h1>
 
-<h2>Experience as a monitor</h2>     2017-2 <br>
+<h2>Experience as a monitor</h2> July 2017 - December 2017 <br>
 <ul>
   <li> Work as a monitor of the course "Mathematical Methods for Physicist II" at the Universidad Nacional de Colombia - Departamento de Física.</li>
 </ul>
