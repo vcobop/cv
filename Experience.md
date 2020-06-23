@@ -1,16 +1,16 @@
 ---
 title: Experience
-layout: home
+layout: single
 ---
 
 <h1>Qualifications</h1>  
 
 <ul>  
-<li> High efficient professional, dedicated to provide innovative solutions to specific project needs. coordination skills. Known for working well  within cross functional team to achieve project completion in a specific time line.
+<li> High efficient professional, dedicated to provide innovative solutions to specific project needs. coordination skills. Known for working well  within cross functional team to achieve project completion in a specific time line.</li>
 <li> Excellent domain of subjects related to mathematics, for example, algebra, geometry, statistics and calculus.</li>  
 <li> Great ability to explain and teach.</li> 
-<ul>
-<p><br>
+</ul>
+<br>
 <h1>Teacher Experience</h1>
 
 <h2>Experience as a monitor</h2>     2017-2 <br>
@@ -26,7 +26,7 @@ layout: home
 <h2>ICFES Qualifier</h2>   October 2014 & October 2015  <br>
 <ul>
  <li> I have been a qualifier of ICFES open-ended questions in two occasions, working in the Ciencias Naturales section</li>
-<ul>  
+</ul>  
 
 
 <h1>Disclosure Experience</h1>
