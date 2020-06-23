@@ -3,9 +3,8 @@ title: Research Products
 layout: home
 ---
 
-<pre>       
-<strong>Universidad Nacional de Colombia</strong><br>
-<strong>Quantum Optics and Information Group<strong>       September 2015 -<br><br>   </pre>
+<pre><strong>Universidad Nacional de Colombia</strong><br>
+<strong>Quantum Optics and Information Group<strong>                   September 2015 -<br><br></pre>
 Achievements and Contribution:
 <ul>
   <li> Poster - XIV Encuentro Nacional de Optica y V Conferencia Andina y del Caribe en óptica y sus Aplicaciones - Santiago de Cali, Noviembre 16-20,2015, <em>Competencia entre perdidas y bombeo incohere en un modelo de dos cubits en interaccion</em> </li>
