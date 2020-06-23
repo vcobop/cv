@@ -2,6 +2,10 @@
 title: Research Products
 layout: post
 ---
+<p>
+  Here are some academic contributions that I have made over time. These contributions are organized chronologically by ease.
+</p>
+
 
 ><strong>Universidad Nacional de Colombia</strong><br>
 <strong>Quantum Optics and Information Group</strong>                   September 2015 -<br>
