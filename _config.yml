@@ -20,7 +20,7 @@ title                    : #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Julian Triana"
-description              : "An amazing website."
+description              : "Julian Triana's website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,30 +97,30 @@ author:
   avatar           : "https://raw.githubusercontent.com/julitrii/CV/master/FotoHV.jpeg"
   bio              : "Physicist at the Univeridad Nacional de Colombia (Colombia) <br> <br>
                       Master degree at the Universidade Federal de Minas Gerais (Brazil)"
-  location         : "Bogotá D.C., Colombia"
-  email            :
+  location         : "Bogotá D.C.  Colombia"
+  email            : jctrianai@unal.edu.co
   links:
     - label: "jctrianai@unal.edu.co"
       icon: "fas fa-fw fa-envelope-square"
       url: <jctrianai@unal.edu.co>
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      # - label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "julitrii.github.io/CV"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/julitrii"
+       url: <https://github.com/julitrii>
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: "www.linkedin.com/in/julitrii"  
+       url: <www.linkedin.com/in/julitrii>  
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/julitrii/"
+       url: <https://www.instagram.com/julitrii/>
 
 # Site Footer
 footer:
