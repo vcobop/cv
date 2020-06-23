@@ -2,9 +2,10 @@
 title: Research Products
 layout: home
 ---
+<p>
 
-<pre><strong>Universidad Nacional de Colombia</strong><br>
-<strong>Quantum Optics and Information Group<strong>                   September 2015 -<br><br></pre>
+<strong>Universidad Nacional de Colombia</strong><br>
+<strong>Quantum Optics and Information Group<strong>                   September 2015 -<br><br>
 Achievements and Contribution:
 <ul>
   <li> Poster - XIV Encuentro Nacional de Optica y V Conferencia Andina y del Caribe en óptica y sus Aplicaciones - Santiago de Cali, Noviembre 16-20,2015, <em>Competencia entre perdidas y bombeo incohere en un modelo de dos cubits en interaccion</em> </li>
@@ -83,3 +84,4 @@ Achievements and Contribution:
 <ul>
  <li> Poster - VII Paraty Quantum Information School and Workshop, Paraty – Rio de Janeiro – Brazil – 5-16 August 2019 <em>Topological Phase of three Qubits in Pairs of Entangled Photons</em></li>
 </ul>
+</p>
