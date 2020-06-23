@@ -9,4 +9,12 @@ layout: home
     <li>Portugues. C1 Level</li>
     <li>Engish. B2 Level</li>
   </ul>
-  
+<h1>Computational Skills</h1>  
+ <ul>
+  <li>Phyton programming</li>
+  <li>C++ programming</li>
+  <li>Mathematica</li>
+  <li>SPSS (Statistical/Data Analysis and Reporting)</li>
+  <li>Data Studio</li>
+  <li>Microsoft Office, Excel </li>
+ </ul>
