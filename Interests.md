@@ -1,6 +1,6 @@
 ---
 title: Interests
-layout: home
+layout: post
 ---
 
 
