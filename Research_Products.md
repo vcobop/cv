@@ -2,7 +2,6 @@
 title: Research Products
 layout: post
 ---
-<p>
 
 <strong>Universidad Nacional de Colombia</strong><br>
 <strong>Quantum Optics and Information Group<strong>                   September 2015 -<br><br>
@@ -84,4 +83,4 @@ Achievements and Contribution:
 <ul>
  <li> Poster - VII Paraty Quantum Information School and Workshop, Paraty – Rio de Janeiro – Brazil – 5-16 August 2019 <em>Topological Phase of three Qubits in Pairs of Entangled Photons</em></li>
 </ul>
-</p>
+
