@@ -12,7 +12,8 @@ layout: home
 <h1>Computational Skills</h1>  
  <ul>
   <li>Phyton programming<br>
-  ![Phytonlogo](https://raw.githubusercontent.com/julitrii/CV/master/python-logo.jpg)</li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/python-logo.jpg" alt="Phytonlogo" width="100">
+  </li>
   <li>C++ programming</li>
   <li>Mathematica</li>
   <li>SPSS (Statistical/Data Analysis and Reporting)</li>
