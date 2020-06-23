@@ -102,7 +102,7 @@ author:
   links:
     - label: "jctrianai@unal.edu.co"
       icon: "fas fa-fw fa-envelope-square"
-      url: jctrianai@unal.edu.co
+      url: <jctrianai@unal.edu.co>
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "julitrii.github.io/CV"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "julitrii.github.io"
+      # url: "julitrii.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: https://www.instagram.com/julitrii/
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+       url: www.linkedin.com/in/julitrii     
 
 
 # Reading Files
