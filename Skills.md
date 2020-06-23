@@ -11,7 +11,8 @@ layout: home
   </ul>
 <h1>Computational Skills</h1>  
  <ul>
-  <li>Phyton programming</li>
+  <li>Phyton programming<br>
+  ![Phyton logo]()</li>
   <li>C++ programming</li>
   <li>Mathematica</li>
   <li>SPSS (Statistical/Data Analysis and Reporting)</li>
