@@ -1,6 +1,6 @@
 ---
 title: More
-layout: home
+layout: splash
 ---
 
 # Board strategy games
