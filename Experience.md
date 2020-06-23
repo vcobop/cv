@@ -10,7 +10,7 @@ layout: home
 <li> Excellent domain of subjects related to mathematics, for example, algebra, geometry, statistics and calculus.</li>  
 <li> Great ability to explain and teach.</li> 
 <ul>
-</p><br>
+<p><br>
 <h1>Teacher Experience</h1>
 <p>
 <h2>Experience as a monitor</h2>     2017-2 <br>
