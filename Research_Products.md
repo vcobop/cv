@@ -3,7 +3,8 @@ title: Research Products
 layout: post
 ---
 <p>
-  Here are some academic contributions that I have made across the time. These contributions are organized chronologically by ease.
+  Here are some academic contributions that I have made across the time.<br>
+  These contributions are organized chronologically by ease.
 </p>
 
 
