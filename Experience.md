@@ -30,7 +30,7 @@ layout: single
 
 
 <h1>Disclosure Experience</h1>
-<h2>Experience as a Student Chapter member</h2>   Jan 2015 - Sep 2017
+<h2>Experience as a Student Chapter member</h2>   Jan 2015 - Sep 2017<br>
 
 I have been a member of the UNBOS student chapter belonging to the Univesidad Nacional de Colombia, sponsored by OSA (The Optical Society). There are outreach activities focused on taking science to vulnerable populations in creative ways. Such as, blind population and schools in vulnerable areas, all in order to contribute to their development. This experience is very important for my because help me to create new alternatives for teach understanding the need of certain populations. It is really enriching as much as spiritually as technically.   
 
