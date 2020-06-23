@@ -19,13 +19,19 @@ layout: home
   <li>Mathematica</li>
   <img src="https://raw.githubusercontent.com/julitrii/CV/master/MatLog.jpg" alt="Matlogo" width="50">
   <li>SPSS (Statistical/Data Analysis and Reporting)</li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/spsslog.jpg" alt="SSlogo" width="50">
   <li>Data Studio</li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/Datalog.png" alt="Datlogo" width="50">
   <li>Microsoft Office, Excel </li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/Excelog.png" alt="Exlogo" width="50">
  </ul>
 <h1>Software</h1>
 <ul>
   <li>Linux</li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/linuxlog.jpg" alt="linxlogo" width="50">
   <li>Windows</li>
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/windlog.png" alt="Exlogo" width="50">
 </ul>
+
 
 
