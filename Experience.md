@@ -15,10 +15,10 @@ layout: single
 
 <h2>Experience as a monitor</h2>     2017-2 <br>
 <ul>
-  <li> Work as a monitor of the course "Mathematical Methods for Physicist II" at the Universidad Nacional de Colombia - Departamento de Física.
+  <li> Work as a monitor of the course "Mathematical Methods for Physicist II" at the Universidad Nacional de Colombia - Departamento de Física.</li>
 </ul>
 
-<h2> Teaching in physics and mathematics</h2> July 2012 - September 2017 <br>
+<h2> Teaching in physics and mathematics</h2>  July 2012 - September 2017 <br>
 <ul>
  <li> Tutor in physics and mathematics for more than 4 years independently</li> 
 </ul>
