@@ -10,7 +10,7 @@ Achievements and Contribution:
   <li> Poster - XIV Encuentro Nacional de Optica y V Conferencia Andina y del Caribe en óptica y sus Aplicaciones - Santiago de Cali, Noviembre 16-20,2015, <em>Competencia entre perdidas y bombeo incohere en un modelo de dos cubits en interaccion</em> </li>
 </ul><br>
  
-<strong> Universidad Nacional de Colombia</strong><br>
+><strong> Universidad Nacional de Colombia</strong><br>
 <strong>Quantum Optics and Information Group</strong>     August 2016 -<br><br>
 
 Achievements and Contribution:
@@ -18,20 +18,20 @@ Achievements and Contribution:
  <li> Attendant - OSA Latin America Optics & Photonics Conference (LAOP)- Medellin , August 22-25,2016. </li>
 </ul><br>
  
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     May 2017 -<br><br>
 <ul>
  <li> Winner of the award for better undergraduate thesis support in poster mode. </li>
 </ul> <br>
  
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     August 2017 -<br><br>
 Achievements and Contribution:
 <ul>
  <li> Poster - ELAF 2017: Latin American School of Physics "Marcos Moshinsky" 2017 - Ciudad de México - July 24- August 4 , <em>Competition Between Incoherent Pumping and Losses in a System of Two Interacting Qubits.</em></li>
 </ul><br>
 
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     September 2017 -<br><br>
 Achievements and Contribution:
 <ul>
@@ -39,13 +39,13 @@ Achievements and Contribution:
 </ul><br>
  
 
-<strong>Universidad Nacional de Colombia</strong><br>  
+><strong>Universidad Nacional de Colombia</strong><br>  
         September 2017 -<br><br>
 <ul>
  <li> Member of the winning team of the UNPT (Universidad Nacional Physics Tournament). Competence where skills of teamwork and knowledge in physics are measured.</li> 
 </ul><br>
 
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     January 2018  -<br><br>
 Achievements and Contribution:
 <ul>
@@ -53,7 +53,7 @@ Achievements and Contribution:
 </ul><br>
 
 
-<strong>Universidad Federal de Minas Gerais</strong><br> 
+><strong>Universidad Federal de Minas Gerais</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     August 2018 -<br><br>
 Achievements and Contribution:
 <ul>
@@ -61,7 +61,7 @@ Achievements and Contribution:
 </ul><br>
 
 
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     October 2018  -<br><br>
 Achievements and Contribution:
 <ul>
@@ -69,7 +69,7 @@ Achievements and Contribution:
 </ul><br>
  
  
-<strong>Universidad Federal de Minas Gerais</strong><br> 
+><strong>Universidad Federal de Minas Gerais</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     October 2018  -<br><br>
 Achievements and Contribution:
 <ul>
@@ -77,7 +77,7 @@ Achievements and Contribution:
 </ul><br>
 
 
-<strong>Universidad Nacional de Colombia</strong><br> 
+><strong>Universidad Nacional de Colombia</strong><br> 
 <strong>Quantum Optics and Information Group</strong>     October 2019  -<br><br>
 Achievements and Contribution:
 <ul>
