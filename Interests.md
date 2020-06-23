@@ -19,7 +19,7 @@ layout: home
   <ul>
   <li>Databases Analysis</li>
   </ul>
-<li><strong>Quantum Machine Learnig</strong></li>
+<li><strong>Quantum Machine Learning</strong></li>
 </ul>
 
 
