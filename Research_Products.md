@@ -1,6 +1,6 @@
 ---
 title: Research Products
-layout: home
+layout: post
 ---
 <p>
 
