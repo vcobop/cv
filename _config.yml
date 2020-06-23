@@ -118,7 +118,7 @@ author:
       url: "https://github.com/julitrii"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/julitrii"  
+      #url: "https://www.linkedin.com/in/julitrii"  
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/julitrii/"
