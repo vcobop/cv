@@ -103,7 +103,7 @@ author:
   links:
     - label: "jctrianai@unal.edu.co"
       icon: "fas fa-fw fa-envelope-square"
-      # url: <jctrianai@unal.edu.co>
+      url: mailto:jctrianai@unal.edu.co
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "julitrii.github.io/CV"
