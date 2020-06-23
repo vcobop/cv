@@ -12,7 +12,7 @@ layout: home
 <h1>Computational Skills</h1>  
  <ul>
   <li>Phyton programming<br>
-  <img src="https://raw.githubusercontent.com/julitrii/CV/master/python-logo.jpg" alt="Phytonlogo" width="100">
+  <img src="https://raw.githubusercontent.com/julitrii/CV/master/Phython%20logo.png" alt="Phytonlogo" width="50">
   </li>
   <li>C++ programming</li>
   <li>Mathematica</li>
