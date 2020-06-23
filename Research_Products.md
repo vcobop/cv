@@ -17,7 +17,6 @@ Achievements and Contribution:
  
 ><strong> Universidad Nacional de Colombia</strong><br>
 <strong>Quantum Optics and Information Group</strong>     August 2016 -<br>
-
 Achievements and Contribution:
 <ul>
  <li> Attendant - OSA Latin America Optics & Photonics Conference (LAOP)- Medellin , August 22-25,2016. </li>
