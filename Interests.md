@@ -16,6 +16,9 @@ layout: home
   </ul>
   
 <li><strong>Machine Learning</strong></li>
+  <ul>
+  <li>Databases Analysis</li>
+  </ul>
 <li><strong>Quantum Machine Learnig</strong></li>
 </ul>
 
