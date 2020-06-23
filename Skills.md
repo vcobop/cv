@@ -8,5 +8,5 @@ layout: home
     <li>Spanish. Native language</li>
     <li>Portugues. C1 Level</li>
     <li>Engish. B2 Level</li>
-  <ul>
+  </ul>
   
