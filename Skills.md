@@ -3,7 +3,7 @@ title: Skills
 layout: home
 ---
 
-<h1>Languages<h1> 
+<h1>Languages</h1> 
   <ul>
     <li>Spanish. Native language</li>
     <li>Portugues. C1 Level</li>
