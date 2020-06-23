@@ -43,7 +43,7 @@ Achievements and Contribution:
 </ul><br>
  
 
-><strong>Universidad Nacional de Colombia</strong><br>  
+><strong>Universidad Nacional de Colombia</strong> 
         September 2017 -<br>
 <ul>
  <li> Member of the winning team of the UNPT (Universidad Nacional Physics Tournament). Competence where skills of teamwork and knowledge in physics are measured.</li> 
