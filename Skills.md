@@ -20,3 +20,8 @@ layout: home
   <li>Data Studio</li>
   <li>Microsoft Office, Excel </li>
  </ul>
+<h1>Software</h1>
+<ul>
+  <li>Linux</li>
+  <li>Windows</li>
+</ul>
