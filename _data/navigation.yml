@@ -5,7 +5,7 @@ main:
    #- title: "About"
    #  url: About
    - title: "Home"
-     url: CV
+     url: https://julitrii.github.io/CV/
    - title: "Interests"
      url: Interests
    - title: "Research Products"
